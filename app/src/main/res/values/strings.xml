@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lemming.kz</string>
+    <string name="posts">Loading...</string>
+    <string name="index_title">Последние статьи</string>
+</resources>
